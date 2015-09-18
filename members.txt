@@ -7,3 +7,11 @@ MEMBER 2 KAJAL
 MEMBER 3 CHRIS
 
 MEMBER 4 JAN
+
+KAJAL KHODASKAR
+
+I am a first year student studying Engineering. 
+
+Role in project : Assignement Uploader 
+ 
+Preferred branch of engineering: Chemical Engineering
