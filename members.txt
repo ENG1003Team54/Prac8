@@ -12,6 +12,26 @@ KAJAL KHODASKAR
 
 I am a first year student studying Engineering. 
 
+<<<<<<< HEAD
+
+
+
+
+
+
+
+
+
+
+
+
+Gihan De Mel
+ 
+Brief introduction
+ 
+Role in project: don't know
+=======
 Role in project : Assignement Uploader 
+>>>>>>> master
  
 Preferred branch of engineering: Chemical Engineering
