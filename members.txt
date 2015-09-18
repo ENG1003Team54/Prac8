@@ -8,13 +8,10 @@ MEMBER 3 CHRIS
 
 MEMBER 4 JAN
 
+KAJAL KHODASKAR
 
+I am a first year student studying Engineering. 
 
-
-Gihan De Mel
+Role in project : Assignement Uploader 
  
-Brief introduction
- 
-Role in project: don't know
- 
-Preferred branch of engineering: don't know
+Preferred branch of engineering: Chemical Engineering
